@@ -17,7 +17,7 @@ I would like to thank the following people:
 
 
 # You will need:
-* A PC (preferably running linux/windows)
+* A PC (preferably running Linux/windows)
 * Decent Knowledge in C/C++
 * An internet connection
 * A Life
