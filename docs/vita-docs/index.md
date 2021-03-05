@@ -12,7 +12,7 @@ I would like to thank the following people:
 - Team Molecule for the entire homebrew scene
 - The Vita Nuova server and all the members inside
 - Bythos, Rinnegatamante, S1ngyy and everyone else in the Vita Nuova Discord for code help for when I was originally learning this
-- Samilop "Cimmerian" Iter for helping me fixing my vita (check out his [troubleshooting guide for the vita!](https://samilops2.gitbook.io/vita-troubleshooting-guide/) )
+- Samilop "Cimmerian" Iter for helping me fixing my vita (check out his [troubleshooting guide for the vita!](https://samilops2.gitbook.io/vita-troubleshooting-guide/))
 - Kiiro Yakumo for proof reading
 
 
@@ -25,3 +25,6 @@ Have fun making homebrew!
   
   
   [Part 2: Getting VitaSDK Set Up](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-2/)
+  
+  
+  [Part 3: Building an app (just the basics)]https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-3/)
