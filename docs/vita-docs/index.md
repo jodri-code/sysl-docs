@@ -16,6 +16,13 @@ I would like to thank the following people:
 - Kiiro Yakumo for proof reading
 
 
+# You will need:
+* A PC (preferbly running linux/windows)
+* Decent Knowledge in C/C++
+* An internet connection
+* A Life
+* Some free time
+
 Have fun making homebrew!
 # Index
 * Chapter 1:

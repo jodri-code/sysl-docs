@@ -8,6 +8,8 @@
 This section is for the users that are on windows and don't have WSL (Windows Subsytem for Linux). 
 Don't worry if you don't know what Linux or WSL is, you'll learn about that in this chapter and some basics along with it.
 
+
+
 # Part 1: What is Linux?
 Linux is an Kernel (or operating system) used by many people, even people like NASA. It's popular because of its customizability, privacy, and more. Linux is shared in Distributions (distros), which is the Linux kernel, but with many feautures and improvments ontop. You can think of it like a different versions of windows.
 For this guide we'll be using one of the most popular distro, Ubuntu.
