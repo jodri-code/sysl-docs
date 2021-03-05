@@ -11,4 +11,4 @@ This guide will teach you how to setup WSL(if you are on windows), VitaSDK and h
 * Chapter 1:
 
 
-  [Part 1:Getting WSL Set Up](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-1/)
+  [Part 1: Getting WSL Set Up](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-1/)
