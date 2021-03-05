@@ -4,9 +4,19 @@
 ### [Head back to the main site...](https://pipewarp.co.uk)
 
 
-This is a simple guide to getting started with creating Homebrew with the PSVita.
-This guide will teach you how to setup WSL(if you are on windows), VitaSDK and how to use LibVita2D.
 
+Welcome to the PSVita Homebrew Guide by PipeWarp! This guide will teach you the basics of making C++/C Homebrew for the PSVita along with the basics of building applications with Linux!
+
+
+I would like to thank the following people for help with me making homebrew so that I could make this guide:
+- Team Molecule for the entire homebrew scene
+- The Vita Nuova server and all the members inside
+- Bythos, Rinnegatamante, S1nggy and everyone else in the Vita Nuova Discord for code help for when I was originally learning this
+- Samilop "Cimmerian" Iter for helping me fixing my vita (check out his [troubleshooting guide for the vita!](https://samilops2.gitbook.io/vita-troubleshooting-guide/) )
+- Kirro Yakumo for proof reading
+
+
+Have fun making homebrew!
 # Index
 * Chapter 1:
 
