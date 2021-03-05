@@ -1,7 +1,7 @@
 ## [PSVita Guide Index](https://docs.pipewarp.co.uk/vita-docs)
 
 # Part 2: Setting up VitaSDK
-###### ez
+### ez
 
 
 
