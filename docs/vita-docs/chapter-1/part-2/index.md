@@ -1,34 +1,39 @@
 ## [PSVita Guide Index](https://docs.pipewarp.co.uk/vita-docs)
 
-# Part 1: Setting up WSL
-### haha linux go brrr
+# Part 2: Setting up VitaSDK
+### ez
 
 
-## SKIP THIS CHAPTER IF YOU ARE USING Linux!
-This section is for the users that are on windows and don't have WSL (Windows Subsytem for Linux). 
-Don't worry if you don't know what Linux or WSL is, you'll learn about that in this chapter and some basics along with it.
+# Part 1: What is VitaSDK?
+Exactly what you think it is, a SDK (software development kit) for creating homebrew on the vita. 
 
-# Part 1: What is Linux?
-Linux is an Kernel (or operating system) used by many people, even people like NASA. It's popular because of its customizability, privacy, and more. Linux is shared in Distributions (distros), which is the Linux kernel, but with many feautures and improvments ontop. You can think of it like a different versions of windows.
-For this guide we'll be using one of the most popular distro, Ubuntu.
+# Part 2: How do I get it?
 
-# Part 2: How do I get Ubuntu?
+Follow the steps at https://vitasdk.org/
 
-Using Ubuntu with windows is easy. We could get a virtual machine, but assuming you don't know a thing about Linux, we will use WSL (windows subsytem for Linux), which allows us to use the Ubuntu Terminal with Windows.
-The Simplest method is as follows:
+However, if you still somehow don't get what to do, Here is a detailed guide below.
 
-* Step 1: Open the Microsoft Store and search Ubuntu (insert image of Ubuntu on windows store)
-* Step 2: Click on the first result (which should be Ubuntu as shown above)
-* Step 3: Download Ubuntu!
+1.Inside of your Linux terminal (or WSL), type in ```apt-get install make git-core cmake python```
+  This will install Python to your terminal, allowing you to run the VitaSDK install script
+  
 
-You can easily lauch it from the start menu.
+2.Run ```nano .bashrc``` on your terminal. If you have trouble opening it, google a guide on opening this file.
 
-# Step 3: What do I do now?
-Here are some easy commands to help you get started for the next tutorial.
+3.Scroll to the bottom of the whole text (make sure to not delete anything!) and once you reach the end, paste in the following:
 ```
-ls              <- List all the files/folders in a directory
-cd              <- Enter a folder
-nano [FILENAME] <- Edit a file/create a file (you can use other editors if you want)
-rm              <- Remove a file
-sudo [COMMAND]  <- Run a command as admin
+export VITASDK=/usr/local/vitasdk
+export PATH=$VITASDK/bin:$PATH # add vitasdk tool to $PATH
 ```
+
+4.Press Ctrl+S and Ctrl+X
+
+5.Run the following commands in order:
+```
+git clone https://github.com/vitasdk/vdpm
+cd vdpm
+./bootstrap-vitasdk.sh
+./install-all.sh
+```
+This will clone the VitaSDK Installation scripts (vdpm) onto your computer and run them.
+
+After the lengthy install, you will have sucessfully installed VitaSDK!
