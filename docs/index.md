@@ -1,6 +1,6 @@
 # Welcome!
 
-aaaaaaaaaaaaaaaaaaaaaaaaa
+Welcome to the documentation section of my site!
 
-# i need this to work
+This is where all of my documentations are stored (duh)
 
