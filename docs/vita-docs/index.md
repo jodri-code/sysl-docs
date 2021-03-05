@@ -8,7 +8,7 @@
 Welcome to the PSVita Homebrew Guide by PipeWarp! This guide will teach you the basics of making C/C++ Homebrew for the PSVita along with the basics of building applications with Linux!
 
 
-I would like to thank the following people for help with me making homebrew so that I could make this guide:
+I would like to thank the following people:
 - Team Molecule for the entire homebrew scene
 - The Vita Nuova server and all the members inside
 - Bythos, Rinnegatamante, S1ngyy and everyone else in the Vita Nuova Discord for code help for when I was originally learning this
