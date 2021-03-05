@@ -1,7 +1,7 @@
 ## [PSVita Guide Index](https://docs.pipewarp.co.uk/vita-docs)
 
 # Part 1: Setting up WSL
-### haha linux go brrr
+###### haha linux go brrr
 
 
 ## SKIP THIS CHAPTER IF YOU ARE USING Linux!
