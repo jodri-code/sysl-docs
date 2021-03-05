@@ -22,3 +22,4 @@ Have fun making homebrew!
 
 
   [Part 1: Getting WSL Set Up](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-1/)
+  [Part 2: Getting VitaSDK Set Up](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-2/)

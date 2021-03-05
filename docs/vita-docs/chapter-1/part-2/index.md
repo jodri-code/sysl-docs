@@ -32,5 +32,3 @@ nano [FILENAME] <- Edit a file/create a file (you can use other editors if you w
 rm              <- Remove a file
 sudo [COMMAND]  <- Run a command as admin
 ```
-
-### [Next Part](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-2/)
