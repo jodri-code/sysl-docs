@@ -27,4 +27,4 @@ Have fun making homebrew!
   [Part 2: Getting VitaSDK Set Up](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-2/)
   
   
-  [Part 3: Building an app (just the basics)]https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-3/)
+  [Part 3: Building an app (just the basics)](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-3/)
