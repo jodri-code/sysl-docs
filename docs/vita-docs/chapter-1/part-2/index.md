@@ -4,8 +4,11 @@
 ### ez
 
 
+
 # Part 1: What is VitaSDK?
 Exactly what you think it is, a SDK (software development kit) for creating homebrew on the vita. 
+
+
 
 # Part 2: How do I get it?
 
