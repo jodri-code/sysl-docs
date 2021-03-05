@@ -13,7 +13,7 @@ I would like to thank the following people for help with me making homebrew so t
 - The Vita Nuova server and all the members inside
 - Bythos, Rinnegatamante, S1nggy and everyone else in the Vita Nuova Discord for code help for when I was originally learning this
 - Samilop "Cimmerian" Iter for helping me fixing my vita (check out his [troubleshooting guide for the vita!](https://samilops2.gitbook.io/vita-troubleshooting-guide/) )
-- Kirro Yakumo for proof reading
+- Kiiro Yakumo for proof reading
 
 
 Have fun making homebrew!
