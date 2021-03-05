@@ -5,7 +5,7 @@
 
 
 
-Welcome to the PSVita Homebrew Guide by PipeWarp! This guide will teach you the basics of making C++/C Homebrew for the PSVita along with the basics of building applications with Linux!
+Welcome to the PSVita Homebrew Guide by PipeWarp! This guide will teach you the basics of making C/C++ Homebrew for the PSVita along with the basics of building applications with Linux!
 
 
 I would like to thank the following people for help with me making homebrew so that I could make this guide:
