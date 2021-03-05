@@ -1,0 +1,9 @@
+title: Documentation Area
+show_downloads: false
+google_analytics:
+remote_theme: "dracula/gh-pages"
+show_header: true
+github:
+  is_project_page: false
+sass:
+    style: compressed
