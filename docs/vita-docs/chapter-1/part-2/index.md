@@ -6,7 +6,7 @@
 
 
 # Part 1: What is VitaSDK?
-Exactly what you think it is, a SDK (software development kit) for creating homebrew on the vita. 
+Exactly what you think it is, an SDK (software development kit) for creating homebrew on the vita. 
 
 
 
@@ -17,7 +17,7 @@ Follow the steps at https://vitasdk.org/
 However, if you still somehow don't get what to do, Here is a detailed guide below.
 
 1.Inside of your Linux terminal (or WSL), type in ```apt-get install make git-core cmake python```
-  This will install Python to your terminal, allowing you to run the VitaSDK install script
+  This will install Python to Ubuntu, allowing you to run the VitaSDK install script
   
 
 2.Run ```nano .bashrc``` on your terminal. If you have trouble opening it, google a guide on opening this file.
@@ -40,3 +40,4 @@ cd vdpm
 This will clone the VitaSDK Installation scripts (vdpm) onto your computer and run them.
 
 After the lengthy install, you will have sucessfully installed VitaSDK!
+
