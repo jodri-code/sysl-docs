@@ -49,7 +49,7 @@ vita2d_clear_screen();
 vita2d_end_drawing();
 vita2d_swap_buffers();
 ```
-This will let LibVita2D when to draw things onto the screen.
+This will let LibVita2D know when to draw things onto the screen.
 
 # Hello World code
 Now, inbetween the start drawing and end drawing lines is where all our code will lie (hence the comment I left in the example above). Delete that comment and replace it with the following:
