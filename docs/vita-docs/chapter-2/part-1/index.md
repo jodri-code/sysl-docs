@@ -25,7 +25,7 @@ The first few lines we want to add are some includes!
 This includes some necessary PSVita functions, some general C/C++ functions aswell as libVita2D (our renderer).
 
 # Initialisation
-Now we add main() (duh) and inside of it, we will add ```cpp vita2d_pgf *pgf;```. This will allow us to put the vita's default font in this variable we can reference later.
+Now we add main() (duh) and inside of it, we will add ```vita2d_pgf *pgf;```. This will allow us to put the vita's default font in this variable we can reference later.
 
 
 Next we add the following, they should be pretty self explanatory.
