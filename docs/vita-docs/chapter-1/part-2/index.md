@@ -41,3 +41,4 @@ This will clone the VitaSDK Installation scripts (vdpm) onto your computer and r
 
 After the lengthy install, you will have sucessfully installed VitaSDK!
 
+### [Next Part](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-3/)

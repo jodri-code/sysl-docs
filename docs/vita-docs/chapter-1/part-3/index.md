@@ -25,3 +25,5 @@ Thats it! There should be a .VPK in the same directory!
 You can snoop around in the soruce code to get an idea of how the program works.
 
 The next chapter will dicuss how to actually *write* code and learn what all these commands mean.
+
+### [Next Part](https://docs.pipewarp.co.uk/vita-docs/chapter-2/part-1/)
