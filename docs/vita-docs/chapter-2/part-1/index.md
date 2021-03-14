@@ -59,12 +59,12 @@ vita2d_pgf_draw_text(pgf, 10, 10, RGBA8(0,255,0,255), 1.0f, "Hello World!");
 This prints out "Hello World!" onto the screen.
 Heres an explanation of the paramaters:
 ```cpp
-vita2d_pgf_draw_text(pgf, // Font 
-					 10,                 // X position
-					 10,                 // Y position
-					 RGBA8(0,255,0,255), // Colour of text (RGBA)
-					 1.0f,               // Text Scale
-					 "Hello World!");    // The text that will be displayed
+vita2d_pgf_draw_text(pgf,                // Font 
+		     10,  	         // X position
+		     10,                 // Y position
+		     RGBA8(0,255,0,255), // Colour of text (RGBA)
+		     1.0f,               // Text Scale
+		    "Hello World!");     // The text that will be displayed
 ```
 
 # De-Initialisation
