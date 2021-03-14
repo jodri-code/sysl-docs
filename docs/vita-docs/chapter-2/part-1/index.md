@@ -73,7 +73,8 @@ Now outside of our main loop, there are still some things we need to add.
 vita2d_fini();           // De-Initialises Vita2D
 vita2d_free_pgf(pgf);    // Frees the font from memory
 sceKernelExitProcess(0); // Safley exits the program.
-return 0;```
+return 0;
+```
 
 [Your source code should look like this!](https://docs.pipewarp.co.uk/vita-docs/chapter-2/part-1/main.cpp)
 

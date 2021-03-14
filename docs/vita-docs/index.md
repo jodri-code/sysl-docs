@@ -35,3 +35,8 @@ Have fun making homebrew!
   
   
   [Part 3: Building an app (just the basics)](https://docs.pipewarp.co.uk/vita-docs/chapter-1/part-3/)
+
+* Chapter 2:
+
+
+  [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/vita-docs/chapter-2/part-1/)
