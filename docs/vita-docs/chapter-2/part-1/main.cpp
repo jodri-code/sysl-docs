@@ -26,7 +26,6 @@ int main()
 		vita2d_end_drawing();
 		vita2d_swap_buffers();
 
-		rad += 0.1f;
 	}
 	vita2d_fini();
 	vita2d_free_pgf(pgf);
