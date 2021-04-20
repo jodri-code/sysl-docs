@@ -12,3 +12,4 @@ This is where all of my documentations are stored (duh)
 
 * [PSVita Documentation (easy guide for getting started with PSVita homebrew)](https://docs.pipewarp.co.uk/vita-docs)
 * [SimpleNFL Documentation](https://github.com/PipeWarp/SimpleNFL/wiki)
+* [SYSlang Documentation](https://docs.pipewarp.co.uk/SYSlang)
