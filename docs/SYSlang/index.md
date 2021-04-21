@@ -1,8 +1,7 @@
 # SYSlang Documentation
 
 
-### [Head back to the main site...](https://pipewarp.co.uk/)
-### [Head back to the docs site...](https://docs.pipewarp.co.uk/)
+### [Head back to the main site](https://pipewarp.co.uk/) or [Head back to the docs site...](https://docs.pipewarp.co.uk/)
 
 
 
@@ -10,10 +9,10 @@ Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. Th
 
 
 I would like to thank the following people:
-- Team Molecule for the entire homebrew scene
+- The CKS Dev Team for the lang basics and hosting the file server [systemware.ga](http://systemware.ga/)
 - redir110 for writing the basic Wiki
 - My secretary, Juile, for proof reading
-- And, of course, PipeWarp, for allowing me to give a home to my docs on his [site](https://docs.pipewarp.co.uk/)!!
+- And, of course, PipeWarp, for allowing me to give a home to my docs on [his site](https://docs.pipewarp.co.uk/)!!
 
 
 # To follow along in this guide, you will need:
@@ -36,4 +35,4 @@ Have fun using SYSlang!
 * Chapter 1:
 
 
-  [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/)
+  [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials)

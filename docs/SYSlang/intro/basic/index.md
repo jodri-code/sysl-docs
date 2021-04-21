@@ -1,6 +1,6 @@
 ## [SYSlang Docs Index](https://docs.pipewarp.co.uk/SYSlang/)
 
-# Part 1: Setting the CLI
+# Part 1: Setting up the CLI
 ### haha powershell go brrr
 
 ## Skip this part if you are _not_ using Windows 10!
@@ -39,5 +39,6 @@ The other method is using the more day-to-day friendly Testtop. To install the C
 ### no, i'm not explaining how to double click the app
 
 ## This part is dedicated for _new_ SYSlang users. It will go over the _very basics_ of the language.
-Some minor requirements to understand before attempting anything:
+Some requirements to understand before attempting anything:
 - If you want to code something with a GUI (Graphical User Interface), you will need to add [Monitor](https://docs.pipewarp.co.uk/SYSlang/class/monitor)
+- As a precaution, if you want to make _anything that is similarly GUI based_ (game, client, OS, ect.) you should add some [resourceLevel controls](https://docs.pipewarp.co.uk/SYSlang/cautions/)
