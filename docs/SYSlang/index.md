@@ -35,4 +35,6 @@ Have fun using SYSlang!
 * Chapter 1:
 
 
+  [A nice list of imports](https://docs.pipewarp.co.uk/SYSlang/class)
+
   [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials)
