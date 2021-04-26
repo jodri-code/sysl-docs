@@ -11,8 +11,8 @@ Due to the way SYSlang is currently set up, no other OS supports SYSlang Scripts
 Monitor is essentially a mini-lib that provides Hardware Acceleration support.
 
 ## Class Imports
-To import this class into your GUI based app or GUI based OS, use `lang-imp monitor`.
+To import this class into your GUI based app or GUI based OS, use `require monitor`. This class is a part of SYSlang's Core Code, so it doesn't need to be imported as a lang asset.
 
 ## Some Definitions
 - `monitor` calls `self()`. Use this to indicate to SYSlang that you are referencing this import.
-- `setResourceLevel(auto|)`. Sets the resource level
+- `setResourceLevel(auto|high|low)`. Sets the resource level usage.
