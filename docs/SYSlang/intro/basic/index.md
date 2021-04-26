@@ -43,4 +43,21 @@ Some requirements to understand before attempting anything:
 - If you want to code something with a GUI (Graphical User Interface), you will need to add [Monitor](https://docs.pipewarp.co.uk/SYSlang/class/monitor)
 - As a precaution, if you want to make _anything that is similarly GUI based_ (game, client, OS, ect.) you should add some [resourceLevel controls](https://docs.pipewarp.co.uk/SYSlang/cautions/)
 
+# Using the CLI on Windows
+Open CMD as an Administartor. The easiest way to do this is to use Windows key + x (at the same time) and choose 'Command Prompt (Admin)'.
+
+Once CMD has opened, type 'cd your default drive:\your user name\Documents\SYSl' replacing "your default drive" with your default drive's letter (such as C, ect) and "your user name" with your user name (the one you are currently logged in as would help).
+
+Once you've sorted that, type "start.SYSl" to start SYSlang's CLI on Windows.
+
+# Using the CLI on Linux
+Open terminal. Type "start.SYSl". It opens in a new terminal window. Wow....
+
+_Note: you can't close the first Terminal_
+
+# Using the CLI on SYStemware
+Protip: use SYStemware's Codertop for a faster experience.
+
+On SYStemware's Testtop, open CLI in the Shortcuts menu.
+
 ## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/)

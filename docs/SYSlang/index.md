@@ -37,4 +37,4 @@ Have fun using SYSlang!
 
   [A nice list of imports](https://docs.pipewarp.co.uk/SYSlang/class)
 
-  [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials)
+  [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials/helloworld)
