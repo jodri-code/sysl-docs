@@ -11,12 +11,12 @@ Don't worry if you don't know what Linux or WSL is, you'll learn about that in t
 
 
 # Part 1: What is Linux?
-Linux is an Kernel (or operating system) used by many people, even people like NASA. It's popular because of its customizability, privacy, and more. Linux is shared in Distributions (distros), which is the Linux kernel, but with many feautures and improvments ontop. You can think of it like a different versions of windows.
-For this guide we'll be using one of the most popular distros, Ubuntu.
+Linux is an kernel that is often paired with GNU software to create an Operating system (known as GNU/Linux, but I'll just refer to it as Linux). Many people use Linux, even people like NASA. It's popular because of its open source code, customizability, privacy, and more. 
+For this guide we'll be using one of the most popular distros (operating systems using GNU/Linux), Ubuntu.
 
 # Part 2: How do I get Ubuntu?
 
-Using Ubuntu with windows is easy. We could get a virtual machine, but assuming you don't know a thing about Linux, we will use WSL (windows subsytem for Linux), which allows us to use the Ubuntu Terminal with Windows.
+Using Ubuntu with windows is easy. We could get a virtual machine, but assuming you don't know a thing about Linux (and to speed things up), we will use WSL (windows subsytem for Linux), which allows us to use the Ubuntu Terminal with Windows.
 The Simplest method is as follows:
 
 * Step 1: Open the Microsoft Store and search Ubuntu (insert image of Ubuntu on windows store)
