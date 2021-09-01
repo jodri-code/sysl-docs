@@ -3,12 +3,12 @@
 # Part 1: Setting up the CLI
 ### haha powershell go brrr
 
-## Skip this part if you are _not_ using Windows 10!
+## Skip this part if you are _not_ using Windows!
 This _part_ is for the users that are on Windows and have PowerShell (usually Windows 10).
 
-Don't worry if you _don't_ have Windows 10 or PowerShell, further along in this guide there's a section for you!
+Don't worry if you _don't_ have Windows or PowerShell, further along in this guide there's a section for you!
 
-# Downloading & Installing the CLI (Windows 10/PowerShell)
+# Downloading & Installing the CLI (Windows/PowerShell)
 This part is still a WIP, the download link to SYSlang's CLI is still not available for the general public.
 
 The installation process is simple enough, download the file, and open it. Once the installer opens, agree to the T&C's and it will install itself.
@@ -16,6 +16,8 @@ The installation process is simple enough, download the file, and open it. Once 
 This is where it gets a bit more complicated. Because of Windows 10 wanting to use PowerShell and it's respective ISE from factory, you will have to manually go to settings and change the default from PowerShell to CMD.
 
 Usually, this is done by going to settings, personalization and taskbar settings. From here there is a setting that says something like 'Replace Command Prompt with PowerShell'. If that setting is enabled, you will have to disable it.
+
+If however, you are using Windows 8 or below and this setting does not apply, feel free to remember you just wasted 5 minutes reading all of that.
 
 ## Skip this part if you are _not_ using Linux
 This _part_ is for Linux users.
@@ -36,7 +38,7 @@ There are two ways of using the CLI in SYStemware. One is selecting Codertop upo
 The other method is using the more day-to-day friendly Testtop. To install the CLI here, you can simply go to settings and select 'Consoles'. Here you tick 'Ware's CLI' and SYStemware will begin the download. The installation process is also automated, but after SYStemware v51.x a restart is required.
 
 # Part 2: Using the CLI
-### no, i'm not explaining how to double click the app
+### no, i'm not explaining how to double click an app
 
 ## This part is dedicated for _new_ SYSlang users. It will go over the _very basics_ of the language.
 Some requirements to understand before attempting anything:
@@ -50,6 +52,7 @@ Once CMD has opened, type 'cd your default drive:\your user name\Documents\SYSl'
 
 Once you've sorted that, type "start.SYSl" to start SYSlang's CLI on Windows.
 
+If you did that right, "Ware's CLI" should show up as your user/drive letter on the command line
 # Using the CLI on Linux
 Open terminal. Type "start.SYSl". It opens in a new terminal window. Wow....
 
@@ -58,6 +61,6 @@ _Note: you can't close the first Terminal_
 # Using the CLI on SYStemware
 Protip: use SYStemware's Codertop for a faster experience.
 
-On SYStemware's Testtop, open CLI in the Shortcuts menu.
+On SYStemware's Testtop, open CLI in the Shortcuts menu after installing.
 
 ## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/)
