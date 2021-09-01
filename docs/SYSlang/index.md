@@ -11,13 +11,13 @@ Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. Th
 I would like to thank the following people:
 - The CKS Dev Team for the lang basics and hosting the file server [systemware.ga](http://systemware.ga/)
 - redir110 for writing the basic Wiki
-- My secretary, Juile, for proof reading
+- My secretary, Jule, for proof reading
 - And, of course, PipeWarp, for allowing me to give a home to my docs on [his site](https://docs.pipewarp.co.uk/)!!
 
 
 # To follow along in this guide, you will need:
-* A PC (preferably running Windows)
-* Decent Knowledge in Lua, as the language is very similar
+* A PC (preferably running Windows, but if you have SYStemware that would be even better)
+* Decent Knowledge in Python & Lua, as the language is very similar
 * An internet connection
 * Some free time
 
@@ -38,3 +38,5 @@ Have fun using SYSlang!
   [A nice list of imports](https://docs.pipewarp.co.uk/SYSlang/class)
 
   [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials/helloworld)
+
+  [Part 2: Making a GUI](https://docs.pipewarp.co.uk/SYSlang)
