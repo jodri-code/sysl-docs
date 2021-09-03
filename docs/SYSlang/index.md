@@ -39,4 +39,7 @@ Have fun using SYSlang!
 
   [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials/helloworld)
 
-  [Part 2: Making a GUI](https://docs.pipewarp.co.uk/SYSlang/#Index)
+  [Part 2: Making a Login Form](https://docs.pipewarp.co.uk/SYSlang/#Index)
+* Chapter 2:
+
+  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/#Index)
