@@ -12,3 +12,10 @@ This can be extremely useful for saving PC's, especially if you don't know how m
 
 # OS Build Precautions
 Another good precaution is to watch over the OS build. This was irrelevant until InfDev found that there is a way to expose the entire core code by allowing the OS to build incorrectly.
+
+The OS build is always a value of 0, 0.5 or 1. 0 is a complete fail, 0.5 is a faulty install and 1 is a correct install. This can be checked after the ag (after girth) has run using the diagnostics window and going to the 'Build' tab.
+
+This mainly happens when the disk isn't formatted correctly or isn't partitioned in at least 3 parts.
+
+To make sure you have a correctly formatted disk you can do `format.this(ch)` or to check the partitions you can do `part(ch)`.
+You can run these commands during installation or once booted, but I recommend running them during installation. 
