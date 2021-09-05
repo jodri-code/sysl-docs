@@ -1,4 +1,4 @@
-## [SYSlang Docs Index](https://docs.pipewarp.co.uk/SYSlang/)
+## [SYSlang Precautions](https://docs.pipewarp.co.uk/SYSlang/)
 
 # This section is dedicated to some precautions for SYSlang
 ### don't make pc go boom pls
@@ -18,4 +18,6 @@ The OS build is always a value of 0, 0.5 or 1. 0 is a complete fail, 0.5 is a fa
 This mainly happens when the disk isn't formatted correctly or isn't partitioned in at least 3 parts.
 
 To make sure you have a correctly formatted disk you can do `format.this(ch)` or to check the partitions you can do `part(ch)`.
-You can run these commands during installation or once booted, but I recommend running them during installation. 
+You can run these commands during installation or once booted, but I recommend running them during installation.
+
+## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/)
