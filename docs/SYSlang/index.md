@@ -28,9 +28,9 @@ _This guide is separated in **two** halves: The language, and the OS._
 * Introduction:
 
 
-  [A basic introduction to SYSlang](https://docs.pipewarp.co.uk/SYSlang/intro/basic)
+  [How to install the CLI](https://docs.pipewarp.co.uk/SYSlang/intro/basic)
 
-  [A basic introduction to SYStemware](https://docs.pipewarp.co.uk/SYSlang/intro/basic-os)
+  [How to install SYStemware](https://docs.pipewarp.co.uk/SYSlang/intro/basic-os)
 
 * Chapter 1:
 
