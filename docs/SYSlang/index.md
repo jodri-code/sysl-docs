@@ -1,4 +1,4 @@
-# SYSlang Documentation
+# SYSlang Docs
 
 
 ### [Head back to the main site](https://pipewarp.co.uk/) or [Head back to the docs site...](https://docs.pipewarp.co.uk/)
@@ -17,13 +17,13 @@ I would like to thank the following people:
 
 # To follow along in this guide, you will need:
 * A PC (preferably running Windows, but if you have SYStemware that would be even better)
-* Decent Knowledge in Python & Lua, as the language is very similar
+* Decent Knowledge in Python & Lua, as the language is apparently similar
 * An internet connection
 * Some free time
 
-_This guide is separated in two halves: The language, and the OS._
+_This guide is separated in **two** halves: The language, and the OS._
 
-Have fun using SYSlang!
+**Have fun using SYSlang!**
 # Index
 * Introduction:
 
@@ -39,7 +39,7 @@ Have fun using SYSlang!
 
   [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials/helloworld)
 
-  [Part 2: Making a Login Form](https://docs.pipewarp.co.uk/SYSlang/#Index)
+  [Part 2: Making a Login Form](https://docs.pipewarp.co.uk/SYSlang/tutorials/loginf)
 * Chapter 2:
 
-  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/#Index)
+  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/GUI1)
