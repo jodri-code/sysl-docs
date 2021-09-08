@@ -49,4 +49,19 @@ There is a code mod coming out that should help by auto-replacing the invalid ch
 
 `.print(to('nogui'))` prints your text in the nogui. To see a fun bug caused by the lang changing over time, change this to `.write('printout()')`
 
+## Part 3: `else` and `else if` statements
+
+In SYSlang, there is no else if statement, however you can put if inside if forever, making the code more  complicated, but allowing for more variations of the same.
+
+The final else can be just an else:
+
+```
+if(time('x').wait('printout()'));
+else(time('-x').wait('return(if)');
+
+printout('txt'){
+  'Hello'+cha37&+'world'
+}.print(to('nogui'));
+```
+
 ## [My head's hurtin', less read s'more](https://docs.pipewarp.co.uk/SYSlang)
