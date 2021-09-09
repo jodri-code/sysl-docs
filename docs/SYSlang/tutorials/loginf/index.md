@@ -6,9 +6,9 @@ A login form
 
 In this tutorial you will learn:
 * How to make a script execute on opening
-* How `wait.input()` and general `wait` works
-* How to proceed after waiting for input (text)
-* How to add a small yet expandable database to your login form
+* How `wait.input()` works different to `if(btn(any).this()), optional, optional`
+* How to proceed after waiting for input
+* How to add a small yet expandable database to your login form, and connect it to your script to  verify the login
 * How to change colours of nogui for a more interesting login form (wow that's a mouthful to say)
 
 Let's start, shall we?
@@ -120,6 +120,8 @@ login(if(btn(cha38&).this()), answer1(), answer2()){
 }
 ```
 This will clear the screen if the enter key is pressed, and only if answer1 and answer2 have been filled in.
+
+You could change this to `wait.input(answer1, answer2)`, but that would automatically execute as soon as a single letter has been entered in both fields.
 ```
 on(exc){
  printout1();
@@ -218,5 +220,7 @@ login(if(btn(cha38&).this()), answer1(), answer2()){
 ```
 And there you have it, one fully functional login form connected to a simple database.
 Please note, this will login to existing accounts if the username and password coincide, if not, it will create a new user (if the username already exists it will just reload the script)
+
+**Passwords cannot be changed once set in this script!**
 
 ## [Return, because my head is working up a storm](https://docs.pipewarp.co.uk/SYSlang/#Index)
