@@ -9,10 +9,10 @@ Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. Th
 
 
 I would like to thank the following people:
-- The CKS Dev Team for the lang basics and hosting the file server [systemware.ga](http://systemware.ga/)
+- The [CKS Dev Team](https://github.com/CKStudios2018) for the lang basics and hosting the file server [systemware.ga](http://systemware.ga/)
 - redir110 for writing the basic Wiki
 - My secretary, Jule, for proof reading
-- And, of course, PipeWarp, for allowing me to give a home to my docs on [his site](https://docs.pipewarp.co.uk/)!!
+- And, of course, [PipeWarp](https://github.com/PipeWarp), for allowing me to give a home to my docs on [his site](https://docs.pipewarp.co.uk/)!!
 
 
 # To follow along in this guide, you will need:
@@ -27,13 +27,12 @@ _This guide is separated in **two** halves: The language, and the OS._
 # Index
 * Introduction:
 
+  [Lang Defs](https://docs.google.com/document/d/1pGIEeBDoBy7iL85BabAjHRIA6SznABof1AjNUcOL6xE/edit?usp=drivesdk)
 
   [How to install the CLI](https://docs.pipewarp.co.uk/SYSlang/intro/basic)
 
   [How to install SYStemware](https://docs.pipewarp.co.uk/SYSlang/intro/basic-os)
-
 * Chapter 1:
-
 
   [A nice list of imports](https://docs.pipewarp.co.uk/SYSlang/class)
 
@@ -42,4 +41,4 @@ _This guide is separated in **two** halves: The language, and the OS._
   [Part 2: Making a Login Form](https://docs.pipewarp.co.uk/SYSlang/tutorials/loginf)
 * Chapter 2:
 
-  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/GUI1)
+  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI1)
