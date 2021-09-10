@@ -3,4 +3,4 @@
 
 _pending write_
 
-## [Return](https://docs.pipewarp.co.uk/SYSlang/#Index)
+## [Return](https://docs.pipewarp.co.uk/SYSlang/#index)
