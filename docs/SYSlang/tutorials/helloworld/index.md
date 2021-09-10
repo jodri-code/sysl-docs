@@ -64,4 +64,4 @@ printout('txt'){
 }.print(to('nogui'));
 ```
 
-## [My head's hurtin', less read s'more](https://docs.pipewarp.co.uk/SYSlang)
+## [My head's hurtin', less read s'more](https://docs.pipewarp.co.uk/SYSlang/#index)
