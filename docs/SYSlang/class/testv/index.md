@@ -12,6 +12,7 @@ Always read the code before executing it.
 - V1RU5's [GUI Remake](https://github.com/jodri-code/SYSlang)
 - F31-Code's [SYSl Color GUI](https://github.com/F31-code/syslcolor)
 - V1RU5's [Fleedor Environment](https://github.com/jodri-code/SYSlDoor)
+- TTS's [Better GUI](https://github.com/TallerThanShort/SYSlang)
 
 ## Applications 
 
