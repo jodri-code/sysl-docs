@@ -7,7 +7,7 @@ So, you made a login form. Great, now try this: making a GUI.
 
 _idek y but one of these things needs binary files bruh wth..._
 
-Don't worry tho, the UBF (Universal Binary File) works on all GUIs, so just download the loaf and use that. seriously.
+Don't worry tho, the SBF (SYSlang Binary File) works on all GUIs, so just download the loaf and use that. seriously.
 
 ## Part 1: Setting up monitor, to not make pc go boom pls
 
