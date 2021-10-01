@@ -2,6 +2,7 @@
 
 # The Discord.SYSl lib
 ### essentially just Discord.js in SYSl
+# [This Lib is currently undergoing a major rewrite!](https://discord.gg/v5VKgHty2y)
 
 ## Class Description
 This class is essentially just a Discord Bot API for SYSlang.
