@@ -20,4 +20,18 @@ This mainly happens when the disk isn't formatted correctly or isn't partitioned
 To make sure you have a correctly formatted disk you can do `format.this(ch)` or to check the partitions you can do `part(ch)`.
 You can run these commands during installation or once booted, but I recommend running them during installation.
 
+# Hotspot and VPN's
+The hotspot is a useful feature. Unfortunately, the password used to get leaked. That is now fixed.
+
+VPN usage on SYStamware is extremely difficult and dangerous for those who don't know what they're doing.
+
+If **YOU** don't know how to use a VPN on SYStemware, _don't_. There is absolutely no need.
+
+# IP's
+SYStemware will provide you with a private IP known as a 'SIP (Secure Internet Protocol)' with a randomised IP not dependant on the DNS configurations of your modem/router.
+
+These SIP's show gov.cks as your location (mock IP, mock location). This is possible thanks to SYStemware's IP cloacking, and the gov.cks programme, that has short over 256 million different possible SIP's.
+
+The SIP is also randomised on boot, so you and/or anyone else will have a different SIP every time your devices restart.
+
 ## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/)
