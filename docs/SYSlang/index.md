@@ -5,18 +5,18 @@
 
 
 
-Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. This guide will teach you all the basics of SYSlang along with the complex definitions of the different libraries and some code examples!
+Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. This guide will teach you SYSlang, show some useful libraries and some code examples!
 
 
 I would like to thank the following people:
-- The [CKS Dev Team](https://github.com/CKStudios2018) for the lang basics and hosting the file server [systemware.ga](http://systemware.ga/)
-- redir110 for writing the basic Wiki
+- The [CKS Dev Team](https://github.com/CKStudios2018) for the lang basics and hosting the file server for SYStemware and allowing me to use gov.cks
+- [redir110](https://github.com/redir110) for writing the basic Wiki
 - My secretary, Jule, for proof reading
 - And, of course, [PipeWarp](https://github.com/PipeWarp), for allowing me to give a home to my docs on [his site](https://docs.pipewarp.co.uk/)!!
 
 
 # To follow along in this guide, you will need:
-* A PC (preferably running Windows, but if you have SYStemware that would be even better)
+* A PC (preferably running Windows or Linux, but if you have SYStemware that would be even better)
 * Decent Knowledge in Python & Lua, as the language is apparently similar
 * An internet connection
 * Some free time
@@ -32,7 +32,7 @@ _This guide is separated in **two** halves: The language, and the OS._
   [How to install the CLI](https://docs.pipewarp.co.uk/SYSlang/intro/basic)
 
   [How to install SYStemware](https://docs.pipewarp.co.uk/SYSlang/intro/basic-os)
-* Chapter 1:
+* Chapter 1
 
   [A nice list of imports](https://docs.pipewarp.co.uk/SYSlang/class)
 
@@ -42,3 +42,7 @@ _This guide is separated in **two** halves: The language, and the OS._
 * Chapter 2:
 
   [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI1)
+
+  [Part 2: Making a GUI - unnamed yet](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI2)
+
+  [Part 3: Making a GUI - unnamed yet](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI3)
