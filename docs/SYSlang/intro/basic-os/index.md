@@ -1,7 +1,7 @@
 # [SYStemware Documentation](https://docs.pipewarp.co.uk/SYSlang)
 
 
-### uhh... new operating system? link when??
+### uhh... new operating system link when!!!
 
 Ok, so its been a while since i did some good docs, here we go...
 
@@ -10,9 +10,9 @@ SYStemware: that one OS designed to try everything.
 Its sooo difficult to install people are gonna hate me for it... but heres the guide:
 
 # Downloading the OS
-Obviously I'd recommend you download over wifi only, its about 60Gb
+Obviously I'd recommend you download over wifi only, its about 6 Gb
 
-I cant give a link yet tho, big security prob
+[download link wooo!](http://systemware.ga/download-latest/)
 
 # Installing the OS
 ### virtual machine is recommended for new users
