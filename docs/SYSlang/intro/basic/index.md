@@ -11,9 +11,6 @@ This _part_ is for the users that are on Windows and have PowerShell (usually Wi
 Don't worry if you _don't_ have Windows or PowerShell, further along in this guide there's a section for you!
 
 # Downloading & Installing the CLI (Windows/PowerShell)
-This part is still a WIP, the download link to SYSlang's CLI is still not available for the general public.
-
-
 The installation process is simple enough, download the file, and open it. Once the installer opens, agree to the T&C's and it will install itself.
 
 This is where it gets a bit more complicated. Because of Windows 10 wanting to use PowerShell and it's respective ISE from factory, you will have to manually go to settings and change the default from PowerShell to CMD.
