@@ -44,7 +44,7 @@ If that didn't work out for you, you can simply manually [Downlaod for Ware](htt
 # Part 2: Using the CLI
 ### no, i'm not explaining how to double click an app
 
-## This part is dedicated for _new_ SYSlang users. It will go over the _very basics_ of the language.
+## This part is dedicated for _new_ SYSlang users. It will go over the _very basics_ of the CLI.
 Some requirements to understand before attempting anything:
 - If you want to code something with a GUI (Graphical User Interface), you will need to add [Monitor](https://docs.pipewarp.co.uk/SYSlang/class/monitor)
 - As a precaution, if you want to make _anything that is similarly GUI based_ (game, client, OS, ect.) you should add some [resourceLevel controls](https://docs.pipewarp.co.uk/SYSlang/cautions/)
@@ -62,10 +62,10 @@ Well, the file is probably on your home screen, but if not you can try:
 
 Open terminal. Type "start.SYSl". It opens in a new terminal window.
 
-_Note: you can't close the first Terminal_
+_Note: you can't close the first Terminal Window_
 
 # Using the CLI on SYStemware
-Protip: use SYStemware's Codertop for a faster experience.
+Protip: use SYStemware's Codertop for an optimised experience.
 
 On SYStemware's Testtop, open CLI in the Shortcuts menu after installing.
 
