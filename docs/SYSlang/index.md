@@ -25,24 +25,30 @@ _This guide is separated in **two** halves: The language, and the OS._
 
 **Have fun using SYSlang!**
 # Index
-* Introduction:
+* Introduction (lang & OS):
 
   [Lang Defs](https://docs.google.com/document/d/1pGIEeBDoBy7iL85BabAjHRIA6SznABof1AjNUcOL6xE/edit?usp=drivesdk)
 
   [How to install the CLI](https://docs.pipewarp.co.uk/SYSlang/intro/basic)
 
   [How to install SYStemware](https://docs.pipewarp.co.uk/SYSlang/intro/basic-os)
-* Chapter 1
+* Chapter 1 (lang):
 
   [A nice list of imports](https://docs.pipewarp.co.uk/SYSlang/class)
 
   [Part 1: Writing a Hello World](https://docs.pipewarp.co.uk/SYSlang/tutorials/helloworld)
 
   [Part 2: Making a Login Form](https://docs.pipewarp.co.uk/SYSlang/tutorials/loginf)
-* Chapter 2:
+* Chapter 2 (lang):
 
-  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI1)
+  [Part 1: Making a Launcher - The base](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher1)
 
-  [Part 2: Making a GUI - unnamed yet](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI2)
+  [Part 2: Making a Launcher - The operations](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher2)
 
-  [Part 3: Making a GUI - unnamed yet](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI3)
+  [Part 3: Making a Launcher - The functionality](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher3)
+
+  [Part 4: Making a Launcher - Publishing](https://jodri-code.github.io/SYStemware.php/publishing)
+
+* Chapter 3 (OS):
+
+  [How to add more launchers](https://docs.pipewarp.co.uk/SYSlang/installs/launchers)
