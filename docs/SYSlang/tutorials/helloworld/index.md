@@ -1,6 +1,5 @@
 # Hello World in SYSlang
 
-
 ### huh, y so long?
 
 ## This section is for the new(ish) users of SYSl

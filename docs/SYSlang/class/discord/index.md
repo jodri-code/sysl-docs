@@ -1,13 +1,13 @@
-## [SYSlang's Discord Lib](https://docs.pipewarp.co.uk/SYSlang)
+## [Discord.SYSl (Discontinued)](https://docs.pipewarp.co.uk/SYSlang/#index)
 
-# The Discord.SYSl lib
+# The Discord.SYSl lib (DISCONTINUED)
 ### essentially just Discord.js in SYSl
 # [This Lib is currently undergoing a major rewrite!](https://discord.gg/v5VKgHty2y)
 
 ## Class Description
 This class is essentially just a Discord Bot API for SYSlang.
 
-For some reason, The CKS Dev Team developed this...
+It has been discontinued thanks to Discord's latest updates.
 
 ## Class Imports
 To call this class, or to use it in your script use `lang-imp Discord.SYSl`. Unless you are using SYStemware v51.7 or above, you will also need to import SYSnd on your machine; just type `lang-imp SYSnd` from the SYSlang CLI.
@@ -15,7 +15,6 @@ To call this class, or to use it in your script use `lang-imp Discord.SYSl`. Unl
 ## Some code definitions & snippets
 
 For a basic bot already written in Discord.SYSl (minus some important files that you will need to import yourself) you can check [SYSbot's GitHub Repo](https://github.com/CKStudios2018/SYSbot/)
-
 - lang requires = token;
 
 This is equal to a const for this lib; only works for const of token.
@@ -32,7 +31,7 @@ Adding this in your Discord.ready without args will cause the script to crash.
 Possible args are: 'idle', 'online', 'offline' & 'odd'. Any of these can be followed by `streaming: 'stream title', 'streamURL'`, `listening: 'track name or whatever you feel like'`, or `watching: 'video name or something'`.
 - NSFW management
 
-Discord.SYSl now has integrated NSFW management. You can set up a few parameters here, but we leave the server after sending a message.
+Discord.SYSl _had_ integrated NSFW management. Unfortunately it was one of the first features dropped thanks to Discord's Updates.
 - serv
 
 Reference to Guild. Can be used to abandon server, or create a server invite.
@@ -52,4 +51,4 @@ Used to reference the bot's self. Only really useful for renaming and pinging se
 
 Only used to leave servers. (sometimes the script gets stuck and dupes this command).
 
-## [Return](https://docs.pipewarp.co.uk/SYSlang/class)
+# [Return](https://docs.pipewarp.co.uk/SYSlang/class)

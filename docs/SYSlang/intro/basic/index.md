@@ -1,4 +1,4 @@
-## [SYSlang Basics](https://docs.pipewarp.co.uk/SYSlang/)
+## [SYSlang Docs - Basics](https://docs.pipewarp.co.uk/SYSlang/)
 
 # Part 1: Setting up the CLI
 ### haha powershell go brrr
@@ -37,9 +37,17 @@ This _part_ is for SYStemware users.
 # Downloading and Installing the CLI (SYStemware Codertop/Testtop)
 There are two ways of using the CLI in SYStemware. One is selecting Codertop upon initiation. SYStemware will do the rest, no install required.
 
-The other method is using the more day-to-day friendly Testtop. To install the CLI here, you can simply go to settings and select 'Consoles'. Here you tick 'Ware's CLI' and SYStemware will begin the download. The installation process is also automated, but after SYStemware v51.x a restart is required.
+The other method is using the more day-to-day friendly Testtop. To install the CLI here, you need to go to nogui, and type the following commands:
 
-If that didn't work out for you, you can simply manually [Downlaod for Ware](http://systemware.ga/cli-4kill64x86-latest/)
+`lang-imp cli;`
+
+`from cli enter releases;`
+
+`dl('cli-nightly.SYSl' from(releases)).to('A:/');`
+
+once that's completed:
+
+`cli(4k)`
 
 # Part 2: Using the CLI
 ### no, i'm not explaining how to double click an app
@@ -56,11 +64,13 @@ Once CMD has opened, type 'cd your default drive:\your user name\Documents\SYSl'
 
 Once you've sorted that, type "start.SYSl" to start SYSlang's CLI on Windows.
 
-If you did that right, "Wares CLI" should show up as your user/drive letter on the command line
-# Using the CLI on Linux
-Well, the file is probably on your home screen, but if not you can try:
+If you did that right, "SYSl CLI" should show up as your user/drive letter on the command line
+# Using the CLI on Linux (I recommend Ubuntu, better performance atm)
+Well, the file is probably in your downloads folder, but if you can't find it, try:
 
-Open terminal. Type "start.SYSl". It opens in a new terminal window.
+- Open terminal.
+- Type "start.SYSl".
+- It opens in a new terminal window.
 
 _Note: you can't close the first Terminal Window_
 
@@ -69,4 +79,4 @@ Protip: use SYStemware's Codertop for an optimised experience.
 
 On SYStemware's Testtop, open CLI in the Shortcuts menu after installing.
 
-## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/#Index)
+## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/#index)

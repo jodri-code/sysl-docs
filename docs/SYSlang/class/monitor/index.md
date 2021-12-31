@@ -1,4 +1,4 @@
-## [SYSlang's Monitor](https://docs.pipewarp.co.uk/SYSlang/class)
+## [SYSlang Docs - Monitor](https://docs.pipewarp.co.uk/SYSlang/class)
 
 # The 'Monitor' Class
 ### huh, pc go boom

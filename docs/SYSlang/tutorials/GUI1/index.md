@@ -1,20 +1,19 @@
- 
-# [Making A GUI - The Base](https://docs.pipewarp.co.uk/SYSlang/#Index)
+# [SYSlang Docs - Making A GUI: The Base](https://docs.pipewarp.co.uk/SYSlang/#index)
 
-## _ngl i didn't wanna write this_
+_ngl i didn't wanna write this_
 
-So, you made a login form. Great, now try this: making a Graphical Launcher.
+So, you made a login form. Great, now try this: making a Graphical User Interface.
 
-_idek y but one of these things needs binary files bruh wth..._
+_idek y but these things needs binary files bruh wth..._
 
-Don't worry tho, the [SBF (SYSlang Binary File)](https://github.com/CKStudios2018/SYSlang/blob/main/Core/trans-defs) works on all GUI/Launchers, so just download the loaf and use that. seriously.
+Don't worry tho, the [SBF (SYSlang Binary File)](https://github.com/CKStudios2018/SYSlang/blob/main/Core/trans-defs) works on all GUI/Launchers, so just download the loaf and use that. seriously. (I think it may be corrupt on gh atm tho, check the issues tab on that repo to stay updated)
 
 ## Part 1: Setting up monitor, to not make pc go boom pls
 
 Simple enough; make an `entry.SYSl` file, and start writing.
 
 This is all the code you need:
-```
+```SYSl
 require monitor;
 //example code hiring here
 //sorry, I meant example code here
@@ -55,5 +54,5 @@ for translators(C, JS, C#, CPP, Ruby, Py, Java, LUA){
 And now you have a simple script in nogui that can understand any of the languages in the `for translators(){}` method.
 Oh, by the way, this thing won't even launch, you will need to finish **all** of these Graphical Launcher tutorials to get it to launch correctly.
 
-## [Return](https://docs.pipewarp.co.uk/SYSlang/#index)
-## [Take Me To The Next Tutorial](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher2)
+### [Return](https://docs.pipewarp.co.uk/SYSlang/#index)
+### [Take Me To The Next Tutorial](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI2)

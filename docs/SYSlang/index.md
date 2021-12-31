@@ -1,19 +1,14 @@
 # SYSlang Docs
 
+### [Head back to the main site](https://pipewarp.co.uk/) or [Head back to the start of the docs site](https://docs.pipewarp.co.uk/)
 
-### [Head back to the main site](https://pipewarp.co.uk/) or [Head back to the docs site...](https://docs.pipewarp.co.uk/)
-
-
-
-Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. This guide will teach you SYSlang, show some useful libraries and some code examples!
-
+Welcome to the SYSlang Section of the Docs! This section is written by V1RU5. This guide will teach you SYSlang, show some useful libraries and some code examples.
 
 I would like to thank the following people:
-- The [CKS Dev Team](https://github.com/CKStudios2018) for the lang basics and hosting the file server for SYStemware and allowing me to use gov.cks
-- [redir110](https://github.com/redir110) for writing the basic Wiki
-- My secretary, Jule, for proof reading
-- And, of course, [PipeWarp](https://github.com/PipeWarp), for allowing me to give a home to my docs on [his site](https://docs.pipewarp.co.uk/)!!
-
+- The [CKS Dev Team](https://github.com/CKStudios2018) for the lang basics, hosting the file server for SYStemware and allowing me to use GOV.CKS project.
+- [redir110](https://github.com/redir110) for writing the basic Wiki.
+- My secretary, Jule, for proof reading.
+- And, of course, [PipeWarp](https://github.com/PipeWarp), for allowing me to give a home to these docs on [his site](https://docs.pipewarp.co.uk/)!!
 
 # To follow along in this guide, you will need:
 * A PC (preferably running Windows or Linux, but if you have SYStemware that would be even better)
@@ -26,6 +21,8 @@ _This guide is separated in **two** halves: The language, and the OS._
 **Have fun using SYSlang!**
 # Index
 * Introduction (lang & OS):
+
+  [Sum Background](https://jodri-code.github.io/SYStemware.php)
 
   [Lang Defs](https://docs.google.com/document/d/1pGIEeBDoBy7iL85BabAjHRIA6SznABof1AjNUcOL6xE/edit?usp=drivesdk)
 
@@ -41,14 +38,14 @@ _This guide is separated in **two** halves: The language, and the OS._
   [Part 2: Making a Login Form](https://docs.pipewarp.co.uk/SYSlang/tutorials/loginf)
 * Chapter 2 (lang):
 
-  [Part 1: Making a Launcher - The base](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher1)
+  [Part 1: Making a GUI - The base](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI1)
 
-  [Part 2: Making a Launcher - The operations](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher2)
+  [Part 2: Making a GUI - The operations](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI2)
 
-  [Part 3: Making a Launcher - The functionality](https://docs.pipewarp.co.uk/SYSlang/tutorials/launcher3)
+  [Part 3: Making a GUI - The functionality](https://docs.pipewarp.co.uk/SYSlang/tutorials/GUI3)
 
-  [Part 4: Making a Launcher - Publishing](https://jodri-code.github.io/SYStemware.php/publishing)
+  [Part 4: Making a GUI - Publishing](https://jodri-code.github.io/SYStemware.php/publishing)
 
 * Chapter 3 (OS):
 
-  [How to add more launchers](https://docs.pipewarp.co.uk/SYSlang/installs/launchers)
+  [How to add more launchers](https://jodri-code.github.io/SYStemware.php/publishing/#vice-versa)
