@@ -11,7 +11,9 @@ Its so difficult to install that I'm rewriting the installer. People are gonna h
 # Downloading the OS
 Obviously I'd recommend you download over wifi only, its about 5 Gb
 
-[download link wooo!](http://systemware.ga/download-latest/) | [download mirror (Google Drive)](https://drive.google.com/file/d/1hsgSxpMeA2Gwo6gfydwm60BYbVmTOnCr/view?usp=sharing)
+[download link wooo!](http://systemware.ga/download-latest/) | [download mirror (Google Drive)](https://drive.google.com/drive/folders/1cTcVfbwneRS8MPR9nBEi1dHLd1_q-_G_?usp=sharing)
+
+*The Google Drive Mirror is a folder containing multiple ISO's; SYStemware-latest.iso is always the last updated version
 
 # Installing the OS
 ### Using a Virtual Machine is recommended for new users
@@ -24,19 +26,19 @@ or
 ## Full install:
 I'll go over it for virtual machines for now (although the Live Install only really differs where you save the OS `boot()`):
 
-Insert the ISO file into the CD drive of the virtual machine and wait for the os to boot into the installer.
+Insert the ISO file into the CD drive of the virtual machine and wait for the OS to boot into the installer.
 
 # If prompted for type of Install (Versions above v62.04-rc1)
 Simply select SeaBIOS Install. The other options require a Dev Key; a 48-digit key that unlocks the bootloader.
 
 Once the installer has begun, there's two ways to install the OS, guided (with GUI) or nogui install (Default)
 
-The guided GUI install can be activated once you have partitioned the disk and rebooted.
+The guided install can (currently) only be activated once you have partitioned the disk and rebooted. I'm changing this.
 
 ## Disk formatting and partitioning
 It's recommended to have at least 12Gb for the installation plus 6Gb for installation files. The minimum you can install on is 18.7Gb
 
-To partition the disk, you will first have to format the disk (format.this().size('your available space here/"all" to erase and format the entire disk')
+To partition the disk, you will first have to format the disk `(format.this().size(`'your available space here/"`all`" to erase and format the entire disk'`)`
 
 Once formatting has completed, nogui should prompt ">1: ". This is prompting you to name the first partition (I recommend boot, primary, secondary). Hit enter after naming it to name the next partition.
 
@@ -53,7 +55,7 @@ Once you have named these partitions, press the `ctrl+c` combination after press
 ## Opening the Guided Installer
 Once rebooted, to open the guided installer simply type `inst(gui)` and press enter.
 
-The installer will make things harder for those who are new tho.
+The guided installer is undergoing some rewrites to make things easier.
 
 ## Installing without the guided installer
 To install without said guided installer, type `part(ch)` to see if you have the 3 partitions. (This step is unnecessary but i always do it to be sure)
@@ -62,8 +64,9 @@ To proceed 'elowold' is the install code. [A full list of Install Codes can be f
 
 The installer will prompt with "are you sure y/n:", just type `y` and hit enter. If you're using version 62.01 or earlier type `g` instead to see a cool bug.
 
-The nogui should now ask you to enter your SSID. Dont worry about this, its an internet thing. On VirtualBox, typing anything works, as long as you leave the password as "none."
-If you are not however on a virtual machine, you should enter a real SSID from a real network that you also have the password to.
+The nogui should now ask you to enter your SSID. Dont worry about this, its an internet thing. On VirtualBox, typing anything works, as long as you leave the password as "none".
+
+If you are not, however, on a virtual machine, you should enter a real SSID from a real network that you also have the password to.
 
 After entering the SSID, "pass:" should show up. Enter the wifi password. To skip don't type anything and hit enter. If its incorrect, it will prompt for the password again.
 
@@ -79,31 +82,34 @@ First you need to type `ag().ch`
 This confirms the installation (both with the server and on the machine itself)
 This also assigns you your private IP.
 
-The meaning of `ag()` tho, is after girth, a meme-ish name Chawi gave the afterinstaller.
+The meaning of `ag()` tho, is after girth, the afterinstaller.
 
 And in case you didn't get it by now, `.ch` and `(ch)` is check, as in, verify.
 
-Once the check is complete your screen should go black and all the writing should disappear and then basically look like a fresh nogui was opened. If this is not the case, contact us at [ckstudios2003@gmail.com](mailto:ckstudios2003@gmail.com) and send us the error code or debug log that appeared on your screen.
+Once the check is complete your screen should go black and all the writing should disappear, therefore looking like a fresh nogui was opened. If this is not the case, contact us at [ckstudios2003@gmail.com](mailto:ckstudios2003@gmail.com) and send us the error code or debug log that appeared on your screen.
 
 Type `gui(ch)` and you should see 3 GUI's downloaded. This is because SYStemware comes with three different modes, that are automatically installed in versions above 62;
-* Desktop - A normal multi-functional Desktop
+* Testtop - A normal multi-functional Desktop
 * Gamertop - A Desktop optimised for games
 * Codertop - A Desktop optimised for code development
 
-You can download more user created GUI's from GitHub.com, or the built-in repos (a lot harder, no I'm not explaining)
+You can download more user created GUI's from GitHub.com, or from the built-in slave (a lot harder, no I'm not explaining)
 
 ## Actually getting in to the OS, at last.
-Reboot. This will open Testtop.
+## EJECT THE MEDIUM!
+This may sound silly, but VirtualBox doesn't eject the disk for you. You should do that, even if you are installing from a USB on a physical machine, eject the medium.
 
-If you hold `c` while booting, nogui will load instead.
+If you fail to do this, the installer will restart, but don't worry, just eject it before pressing anything and use `ctrl+c` to reboot again.
+
+If you hold `c` while booting, nogui will load.
 From nogui:
 
 * Desktop():
 Loads Testtop (bruh it default lmao)
 * Game():
-Loads Gamertop (pipewarp hasn't published the main engine, currently has a template game (dev) engine)
+Loads Gamertop (pipewarp hasn't published the main engine, currently has a template game (dev) engine). Not many playable games translated.
 * Code():
-Loads Codertop (Advanced Code Tips!)
+Loads Codertop (Advanced Code Tips!). Only supports translated languages (see the gdoc for more info).
 
 These commands are the default, but can vary on anyone's build.
 
