@@ -1,4 +1,4 @@
-## [SYSlang Docs - Monitor](https://docs.pipewarp.co.uk/SYSlang/class)
+## [SYSlang Docs - Monitor](https://systemware.ga/SYSlang/class)
 
 # The 'Monitor' Class
 ### huh, pc go boom
@@ -18,4 +18,4 @@ To import this class into your GUI based app, GUI based OS, or general script, u
 - `.setResourceLevel(Auto|High|Low)`. Sets the resource level usage. Possible options are Auto, High or Low. Low is not equal to a battery saver, and High is not equal to a gamer mode, the same as how Auto will most likely just set it to high and leave it as so.
 - `.resourceLevel`. Followed by .reveal to show the current resource level usage.
 
-### [Return](https://docs.pipewarp.co.uk/SYSlang/class)
+### [Return](https://systemware.ga/SYSlang/class)

@@ -1,10 +1,10 @@
-## [SYSlang Docs - Basics](https://docs.pipewarp.co.uk/SYSlang/)
+## [SYSlang Docs - Basics](https://systemware.ga/SYSlang/)
 
 # Part 1: Setting up the CLI
 ### haha powershell go brrr
 
 ## Skip this part if you are _not_ using Windows!
-[Download link for Windows (x32)](http://systemware.ga/cli-windows32-latest/)
+[Download link for Windows (x32 cross-compat)](http://systemware.ga/cli-windows32-latest/)
 
 This _part_ is for the users that are on Windows and have PowerShell (usually Windows 10).
 
@@ -54,18 +54,18 @@ once that's completed:
 
 ## This part is dedicated for _new_ SYSlang users. It will go over the _very basics_ of the CLI.
 Some requirements to understand before attempting anything:
-- If you want to code something with a GUI (Graphical User Interface), you will need to add [Monitor](https://docs.pipewarp.co.uk/SYSlang/class/monitor)
-- As a precaution, if you want to make _anything that is similarly GUI based_ (game, client, OS, ect.) you should add some [resourceLevel controls](https://docs.pipewarp.co.uk/SYSlang/cautions/)
+- If you want to code something with a GUI (Graphical User Interface), you will need to add [Monitor](https://systemware.ga/SYSlang/class/monitor)
+- As a precaution, if you want to make _anything that is similarly GUI based_ (game, client, OS, ect.) you should add some [resourceLevel controls](https://systemware.ga/SYSlang/cautions/)
 
 # Using the CLI on Windows
 Open CMD as an Administartor. The easiest way to do this is to use Windows key + x (at the same time) and choose 'Command Prompt (Admin)'.
 
-Once CMD has opened, type 'cd your default drive:\your user name\Documents\SYSl' replacing "your default drive" with your default drive's letter (such as C, ect) and "your user name" with your user name (the one you are currently logged in as would help).
+Once CMD has opened, type `cd your-default-drive:\your user name\Documents\SYSl` replacing "your-default-drive" with your default drive's letter (such as C, ect) and "your user name" with your user name (the one you are currently logged in as would help).
 
 Once you've sorted that, type "start.SYSl" to start SYSlang's CLI on Windows.
 
-If you did that right, "SYSl CLI" should show up as your user/drive letter on the command line
-# Using the CLI on Linux (I recommend Ubuntu, better performance atm)
+If you did that right, "WARE>" should show up as your user/drive letter on the command line
+# Using the CLI on Linux
 Well, the file is probably in your downloads folder, but if you can't find it, try:
 
 - Open terminal.
@@ -77,6 +77,6 @@ _Note: you can't close the first Terminal Window_
 # Using the CLI on SYStemware
 Protip: use SYStemware's Codertop for an optimised experience.
 
-On SYStemware's Testtop, open CLI in the Shortcuts menu after installing.
+On SYStemware's Testtop, open CLI in the Shortcuts menu after installing the package.
 
-## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/#index)
+## [Return to Start](https://systemware.ga/SYSlang/#index)

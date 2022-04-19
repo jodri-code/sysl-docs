@@ -1,4 +1,4 @@
-# [SYSlang Docs - TestV](https://docs.pipewarp.co.uk/SYSlang/class/)
+# [SYSlang Docs - TestV](https://systemware.ga/SYSlang/class/)
 ### bruh this is big boi
 
 SYSlang's TestV is one of the biggest Community Managed sections of SYStemware. Here users from all around the world have added things, like their own scripts, bug-fixes, workarounds, license subsidiaries and even some homemade games, viruses and worms.

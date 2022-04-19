@@ -1,4 +1,4 @@
-## [SYSlang Docs - Precautions](https://docs.pipewarp.co.uk/SYSlang/)
+## [SYSlang Docs - Precautions](https://systemware.ga/SYSlang/)
 
 # This section is dedicated to some precautions for SYSlang
 ### don't make pc go boom pls
@@ -34,4 +34,4 @@ These SIP's show gov.cks as your location (mock IP, mock location). This is poss
 
 The SIP is also randomised on boot, so you and/or anyone else will have a different SIP when your device restarts. You may, overtime, get a previously used SIP. There is absolutely nothing to worry about, all traces stay where they were made.
 
-## [Return to Start](https://docs.pipewarp.co.uk/SYSlang/#index)
+## [Return to Start](https://systemware.ga/SYSlang/#index)

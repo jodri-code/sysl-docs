@@ -1,7 +1,7 @@
-## [Discord.SYSl (Discontinued)](https://docs.pipewarp.co.uk/SYSlang/#index)
+## [Discord.SYSl (Discontinued)](https://systemware.ga/SYSlang/#index)
 
 # The Discord.SYSl lib (DISCONTINUED)
-### essentially just Discord.js in SYSl
+### essentially just a Discord API wrapper in SYSl
 # [This Lib is currently undergoing a major rewrite!](https://discord.gg/v5VKgHty2y)
 
 ## Class Description
@@ -51,4 +51,4 @@ Used to reference the bot's self. Only really useful for renaming and pinging se
 
 Only used to leave servers. (sometimes the script gets stuck and dupes this command).
 
-# [Return](https://docs.pipewarp.co.uk/SYSlang/class)
+# [Return](https://systemware.ga/SYSlang/class)

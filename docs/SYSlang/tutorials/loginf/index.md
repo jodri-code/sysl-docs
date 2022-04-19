@@ -1,4 +1,4 @@
-# [Making A Login Form](https://docs.pipewarp.co.uk/SYSlang/#index)
+# [Making A Login Form](https://systemware.ga/SYSlang/#index)
 
 ### *insert dad joke here*
 Now that you know some basics, let's get to something more interesting...
@@ -223,4 +223,4 @@ Please note, this will login to existing accounts if the username and password c
 
 **Passwords cannot be changed once set in this script!**
 
-## [Return, because my head is working up a storm](https://docs.pipewarp.co.uk/SYSlang/#index)
+## [Return, because my head is working up a storm](https://systemware.ga/SYSlang/#index)
