@@ -1,8 +1,7 @@
-# [SYStemware Docs | Install Guide](https://systemware.ga/)
+# [SYStemware Docs | Install Guide](https://jodri-code.github.io/sysl-docs/)
 
 
 ### uhh... new Operating System!! Link now available!!!
-Ok, so its been a while since i did some good docs, here we go...
 
 SYStemware: that one OS designed to try everything.
 
@@ -110,4 +109,4 @@ Loads Codertop (Advanced Code Tips!). Only supports translated languages (see th
 
 These commands are the default, but can vary on anyone's build.
 
-# [Return to start, my head hurts](https://systemware.ga/SYSlang)
+# [Return to start, my head hurts](https://jodri-code.github.io/sysl-docs/)
