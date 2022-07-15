@@ -103,7 +103,7 @@ From nogui:
 * `Desktop()`:
 Loads Testtop (it's also the default if you don't press `c`)
 * `Game()`:
-Loads Gamertop (pipewarp hasn't published the main engine, currently has a template game (dev) engine). Not many playable games translated.
+Loads Gamertop (kb-x hasn't published the main engine, currently has a template game (dev) engine). Not many playable games translated.
 * `Code()`:
 Loads Codertop (Advanced Code Tips!). Only supports translated languages (see the gdoc for more info).
 
