@@ -1,4 +1,4 @@
-## [SYSlang Docs - Basics](https://systemware.ga/SYSlang/)
+## [SYSlang Docs - Basics](https://jodri-code.github.io/sysl-docs/SYSlang/)
 
 # Part 1: Setting up the CLI
 ### haha powershell go brrr
@@ -79,4 +79,4 @@ Protip: use SYStemware's Codertop for an optimised experience.
 
 On SYStemware's Testtop, open CLI in the Shortcuts menu after installing the package.
 
-## [Return to Start](https://systemware.ga/SYSlang/#index)
+## [Return to Start](https://jodri-code.github.io/sysl-docs/SYSlang/#index)

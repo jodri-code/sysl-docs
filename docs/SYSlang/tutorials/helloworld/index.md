@@ -1,4 +1,4 @@
-# Hello World in SYSlang
+# [Hello World in SYSlang](https://jodri-code.github.io/sysl-docs/SYSlang)
 
 ### huh, y so long?
 
@@ -63,4 +63,4 @@ printout('txt'){
 }.print(to('nogui'));
 ```
 
-## [My head's hurtin', less read s'more](https://systemware.ga/SYSlang/#index)
+## [My head's hurtin', less read s'more](https://jodri-code.github.io/sysl-docs/SYSlang/#index)

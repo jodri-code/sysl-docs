@@ -1,7 +1,8 @@
-# [Making A Login Form](https://systemware.ga/SYSlang/#index)
+# [Making A Login Form](https://jodri-code.github.io/sysl-docs/SYSlang/#index)
 
-### *insert dad joke here*
+### *insert bad joke here*
 Now that you know some basics, let's get to something more interesting...
+
 A login form
 
 In this tutorial you will learn:
@@ -218,9 +219,12 @@ login(if(btn(cha38&).this()), answer1(), answer2()){
  }
 }
 ```
+
+_by yhe way, SYSlang supports spaces between strings_
+
 And there you have it, one fully functional login form connected to a simple database.
 Please note, this will login to existing accounts if the username and password coincide, if not, it will create a new user (if the username already exists it will just reload the script)
 
 **Passwords cannot be changed once set in this script!**
 
-## [Return, because my head is working up a storm](https://systemware.ga/SYSlang/#index)
+## [Return, because my head is working up a storm](https://jodri-code.github.io/sysl-docs/SYSlang/#index)

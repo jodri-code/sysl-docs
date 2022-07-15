@@ -1,8 +1,7 @@
-# [SYStemware Docs | Install Guide](https://systemware.ga/)
+# [SYStemware Docs | Install Guide](https://jodri-code.github.io/sysl-docs/)
 
 
 ### uhh... new Operating System!! Link now available!!!
-Ok, so its been a while since i did some good docs, here we go...
 
 SYStemware: that one OS designed to try everything.
 
@@ -104,10 +103,10 @@ From nogui:
 * `Desktop()`:
 Loads Testtop (it's also the default if you don't press `c`)
 * `Game()`:
-Loads Gamertop (pipewarp hasn't published the main engine, currently has a template game (dev) engine). Not many playable games translated.
+Loads Gamertop (kb-x hasn't published the main engine, currently has a template game (dev) engine). Not many playable games translated.
 * `Code()`:
 Loads Codertop (Advanced Code Tips!). Only supports translated languages (see the gdoc for more info).
 
 These commands are the default, but can vary on anyone's build.
 
-# [Return to start, my head hurts](https://systemware.ga/SYSlang)
+# [Return to start, my head hurts](https://jodri-code.github.io/sysl-docs/)
