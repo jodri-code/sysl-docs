@@ -1,6 +1,6 @@
-# [SYSlang Docs - Making a GUI: The operations](https://systemware.ga/SYSlang/#index)
+# [SYSlang Docs - Making a GUI: The operations](https://jodri-code.github.io/sysl-docs/SYSlang/#index)
 
-_You must complete [Part 1](https://systemware.ga/SYSlang/tutorials/GUI1) in order to follow this tutorial_
+_You must complete [Part 1](https://jodri-code.github.io/sysl-docs/SYSlang/tutorials/GUI1) in order to follow this tutorial_
 
 Where did we leave off?
 
@@ -101,5 +101,5 @@ exe('A:/GUI1.jar');
 await(user.res);
 ```
 
-### [Go Back](https://systemware.ga/SYSlang/#index)
-### [I Want Moar!](https://systemware.ga/SYSlang/tutorials/GUI3)
+### [Go Back](https://jodri-code.github.io/sysl-docs/SYSlang/#index)
+### [I Want Moar!](https://jodri-code.github.io/sysl-docs/SYSlang/tutorials/GUI3)
