@@ -1,16 +1,16 @@
-## [Discord.SYSl (Discontinued)](https://systemware.ga/SYSlang/#index)
+## [Discord.SYSl (Discontinued)](https://jodri-code.github.io/sysl-docs/SYSlang/#Index)
 
-# The Discord.SYSl lib (DISCONTINUED)
+# The Discord.SYSl Lib (DISCONTINUED)
 ### essentially just a Discord API wrapper in SYSl
-# [This Lib is currently undergoing a major rewrite!](https://discord.gg/v5VKgHty2y)
+# [This Lib is discontinued!!](https://discord.gg/v5VKgHty2y)
 
-## Class Description
-This class is essentially just a Discord Bot API for SYSlang.
+## Description
+This Lub is a Discord Bot API wrapper for SYSlang.
 
 It has been discontinued thanks to Discord's latest updates.
 
-## Class Imports
-To call this class, or to use it in your script use `lang-imp Discord.SYSl`. Unless you are using SYStemware v51.7 or above, you will also need to import SYSnd on your machine; just type `lang-imp SYSnd` from the SYSlang CLI.
+## Import Lib
+To call this lib, or to use it in your script use `lang-imp Discord.SYSl`. Unless you are using SYStemware v51.7 or above, you will also need to import SYSnd on your machine; just type `lang-imp SYSnd` from the SYSlang CLI.
 
 ## Some code definitions & snippets
 
@@ -51,4 +51,4 @@ Used to reference the bot's self. Only really useful for renaming and pinging se
 
 Only used to leave servers. (sometimes the script gets stuck and dupes this command).
 
-# [Return](https://systemware.ga/SYSlang/class)
+# [Return](https://jodri-code.github.io/sysl-docs/SYSlang/class)
