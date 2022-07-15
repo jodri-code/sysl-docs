@@ -1,4 +1,4 @@
-# [SYSlang Docs - Making A GUI: The Base](https://systemware.ga/SYSlang/#index)
+# [SYSlang Docs - Making A GUI: The Base](https://jodri-code.github.io/sysl-docs/SYSlang/#index)
 
 _ngl i didn't wanna write this_
 
@@ -54,5 +54,5 @@ for translators(C, JS, C#, CPP, Ruby, Py, Java, LUA){
 And now you have a simple script in nogui that can understand any of the languages in the `for translators(){}` method.
 Oh, by the way, this thing won't even launch, you will need to finish **all** of these Graphical Launcher tutorials to get it to launch correctly.
 
-### [Return](https://systemware.ga/SYSlang/#index)
-### [Take Me To The Next Tutorial](https://systemware.ga/SYSlang/tutorials/GUI2)
+### [Return](https://jodri-code.github.io/sysl-docs/SYSlang/#index)
+### [Take Me To The Next Tutorial](https://jodri-code.github.io/sysl-docs/SYSlang/tutorials/GUI2)
